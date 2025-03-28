@@ -1,3 +1,4 @@
+git clone git@github.com:Annna2025/HW_10.git
 git commit -m "Add a small change to develop_test.txt"\n
 git checkout main\n
 git merge develop\n
