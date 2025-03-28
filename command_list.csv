@@ -1,17 +1,17 @@
 git clone git@github.com:Annna2025/HW_10.git
-git commit -m "Add a small change to develop_test.txt"\n
-git checkout main\n
-git merge develop\n
-git commit -m "Merge develop into main"\n
-git merge develop\n
-git checkout main\n
-git checkout main\n
-git merge develop\n
-git push\n
-git checkout main\n
-git merge develop\n
-git log\n
-git add .\n
-git commit -m "Added command history and other changes"\n
-git push\n
-cat command_list.csv\n
+git commit -m "Add a small change to develop_test.txtn"
+git checkout main
+git merge develop
+git commit -m "Merge develop into main"
+git merge develop
+git checkout main
+git checkout main
+git merge develop
+git push
+git checkout main
+git merge develop
+git log
+git add .
+git commit -m "Added command history and other changes"
+git push
+cat command_list.csv
