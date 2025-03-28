@@ -1,0 +1,16 @@
+git commit -m "Add a small change to develop_test.txt"\n
+git checkout main\n
+git merge develop\n
+git commit -m "Merge develop into main"\n
+git merge develop\n
+git checkout main\n
+git checkout main\n
+git merge develop\n
+git push\n
+git checkout main\n
+git merge develop\n
+git log\n
+git add .\n
+git commit -m "Added command history and other changes"\n
+git push\n
+cat command_list.csv\n
